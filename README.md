@@ -1,3 +1,3 @@
 # zoo-project-cpp
 
-![IMG](imgs/UML.PNG)
+![IMG](imgs/UML.png)
