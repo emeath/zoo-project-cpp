@@ -1,4 +1,4 @@
-# zoo-project-cpp
+# Zoo Project c++
 
 ## Goals
 
