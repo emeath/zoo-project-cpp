@@ -12,7 +12,7 @@ The architecture of the project is as follows:
 
 ![IMG](imgs/UML.png)
 
-One of the goals is to practice inheritance and polymorphism. So it is used the functions
+One of the goals is to practice inheritance and polymorphism. So it is used these functions
 
 ```c++
 void printAnimalName(const Zoo::Animal& animal)
